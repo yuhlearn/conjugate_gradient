@@ -1,10 +1,7 @@
 
 ## General
 
-Parallel Conjugate Gradient method
-By Max Reeves
-Parallel and Distributed Programming
-Uppsala University, Spring 2017
+Parallel Conjugate Gradient method using MPI
 
 
 ## Compilation
