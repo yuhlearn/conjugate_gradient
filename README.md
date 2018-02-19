@@ -25,5 +25,5 @@ NOTE: If you compile with one of the flags, you will need to run
 
 ## Running
 
-`mpirun -np <p> ./cg <N>`, where <p> is the desired number of processes
-and <N> is the problem size - i.e. the N in the NxN matrix generated.
+`mpirun -np <p> ./cg <N>`, where `<p>` is the desired number of processes
+and `<N>` is the problem size - i.e. the N in the NxN matrix generated.
